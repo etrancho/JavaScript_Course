@@ -8,16 +8,16 @@ This will allow me to showcase my JavaScript skills.</p>
 
 <p>My profile features the following assignments and projects:</p> 
 
-<a href="https://github.com/etrancho/JavaScript_Course/tree/main/Creating_Sentences_Assignment">- Fortune Teller Assignment</a>
+<a href="https://github.com/etrancho/JavaScript_Course/tree/main/Fortune_Teller_Assignment">- Fortune Teller Assignment</a>
 
 <a href="https://github.com/etrancho/JavaScript_Course/tree/main/Creating_Sentences_Assignment">- Creating Sentences Assignment</a>
 
-<a href="https://github.com/etrancho/JavaScript_Course/tree/main/Creating_Sentences_Assignment">- JavaScript Tutor: Working with Basic Data Types</a>
+<a href="https://github.com/etrancho/JavaScript_Course/tree/main/Working_with_Basic_Data_Types">- JavaScript Tutor: Working with Basic Data Types</a>
 
-<a href="https://github.com/etrancho/JavaScript_Course/tree/main/Creating_Sentences_Assignment">- Debugging Assignment</a>
+<a href="https://github.com/etrancho/JavaScript_Course/tree/main/Debugging_Assignment">- Debugging Assignment</a>
 
-<a href="https://github.com/etrancho/JavaScript_Course/tree/main/Creating_Sentences_Assignment">- Unit Testing Activity</a>
+<a>- Unit Testing Activity</a>
 
-<a href="https://github.com/etrancho/JavaScript_Course/tree/main/Creating_Sentences_Assignment">- Project Pt 1: PacMan Assignment</a>
+<a href="https://github.com/etrancho/JavaScript_Course/tree/main/PacMan_Assignment">- Project Pt 1: PacMan Assignment</a>
 
-<a href="https://github.com/etrancho/JavaScript_Course/tree/main/Creating_Sentences_Assignment">- Project Pt 2: PacMen Factory Assignment</a>
+<a>- Project Pt 2: PacMen Factory Assignment</a>
