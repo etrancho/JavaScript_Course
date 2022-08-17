@@ -4,7 +4,7 @@ This will allow me to showcase my JavaScript skills.
 
 To complete this assignment, I added new files, commit, and push the changes to GitHub from the VS Code environment, just as I did during the class lesson. 
 
-My profile should feature the following assignments and projects:
+My profile features the following assignments and projects:
 * Fortune Teller Assignment
 * Creating Sentences Assignment
 * JavaScript Tutor: Working with Basic Data Types
