@@ -8,10 +8,16 @@ This will allow me to showcase my JavaScript skills.</p>
 
 <p>My profile features the following assignments and projects:</p> 
 
-* Fortune Teller Assignment
-* Creating Sentences Assignment
-* JavaScript Tutor: Working with Basic Data Types
-* Debugging Assignment
-* Unit Testing Activity
-* Project Pt 1: PacMan Assignment
-* Project Pt 2: PacMen Factory Assignment
+<a href="https://github.com/etrancho/JavaScript_Course/tree/main/Creating_Sentences_Assignment">- Fortune Teller Assignment</a>
+
+<a href="https://github.com/etrancho/JavaScript_Course/tree/main/Creating_Sentences_Assignment">- Creating Sentences Assignment</a>
+
+<a href="https://github.com/etrancho/JavaScript_Course/tree/main/Creating_Sentences_Assignment">- JavaScript Tutor: Working with Basic Data Types</a>
+
+<a href="https://github.com/etrancho/JavaScript_Course/tree/main/Creating_Sentences_Assignment">- Debugging Assignment</a>
+
+<a href="https://github.com/etrancho/JavaScript_Course/tree/main/Creating_Sentences_Assignment">- Unit Testing Activity</a>
+
+<a href="https://github.com/etrancho/JavaScript_Course/tree/main/Creating_Sentences_Assignment">- Project Pt 1: PacMan Assignment</a>
+
+<a href="https://github.com/etrancho/JavaScript_Course/tree/main/Creating_Sentences_Assignment">- Project Pt 2: PacMen Factory Assignment</a>
