@@ -20,4 +20,4 @@ This will allow me to showcase my JavaScript skills.</p>
 
 <a href="https://github.com/etrancho/JavaScript_Course/tree/main/PacMan_Assignment">- Project Pt 1: PacMan Assignment</a>
 
-<a>- Project Pt 2: PacMen Factory Assignment</a>
+<a href="https://github.com/etrancho/JavaScript_Course/tree/main/PacMan_Factory_Assignment">- Project Pt 2: PacMen Factory Assignment</a>
